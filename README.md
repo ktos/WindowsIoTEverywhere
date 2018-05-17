@@ -39,7 +39,7 @@ Window IoT core can be run on off-the-shelf computers, But all the documentation
 | Jumper EZpad 6 Pro| Celeron N3450 | ❔ |❔   |❔ | ❔   |❔   | ❔     | ❔  | ❔    | ❔     |
 | ECDream DreamOne  | Celeron N3450 | ❔ |❔   |❔ | ❔   |❔   | ❔     | ❔  | ❔    | ❔     |
 | PIPO X10pro       | Atom Z8330    | ❔ |❔   |❔ | ❔   |❔   | ❔     | ❔  | ❔    | ❔     |
-
+| Onda V80 Plus     | Atom x5-Z8300 | 64 |✔️  |❌ | ❌  |❌   | ❌    | ❌  | ❌  | ❌    |
 
 # Overview
 Intel IoT core will boot on most UEFI systems. A 32 bit UEFI will boot 32 bit Windwos IoT, and 64 bit UEFI can only boot 64 bit Windows IoT. This is not the case with "normal" operating systems- they would boot either way. 
